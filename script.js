@@ -8,9 +8,9 @@ function showSlide(index) {
 }
 
 document.querySelector(".next").onclick = () => {
-    showSlide(current -1;)
+    showSlide(current -1);
 }
 
 document.querySelector(".prev").onclick = () => {
-    showSlide(current - +;)
+    showSlide(current +1);
 }
