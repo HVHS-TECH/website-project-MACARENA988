@@ -58,9 +58,15 @@ font-size: medium;
  overflow:hidden;
 }
 
-slider{
+.slider{
  position: absolute;
  width:100%;
- height:250px;
- overflow:hidden;
+ height:100%;
+ display:none;
 }
+
+.slide.active{
+display:block;
+}
+
+buttone
