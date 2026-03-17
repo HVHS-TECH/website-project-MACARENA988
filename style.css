@@ -10,6 +10,13 @@ color:blue;
   grid-template-columns:auto auto auto auto;
 }
 
+.grid-container2 {
+  background-color: blue;
+  display: grid;
+  grid-template-columns:auto auto;
+}
+
+
 .rightside{
 grid-column-start:3;
 grid-column-end:4;
