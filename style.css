@@ -6,7 +6,7 @@ color:blue;
 
 .grid-container {
   background-color: blue;
-  display: grid;
+  display: gri;
   grid-template-columns:auto auto auto auto;
 }
 
@@ -16,9 +16,8 @@ grid-column-end:4;
 }
 
 .grid-container2 {
-  display: grid;
+  display: gri;
   grid-template-columns:auto auto;
-
 }
 
 .leftside2{
