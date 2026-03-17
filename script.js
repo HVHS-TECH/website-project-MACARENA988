@@ -7,4 +7,10 @@ function showSlide(index) {
     slides[current].classList.add("active");
 }
 
-document
+document.querySelector(".next").onclick = () => {
+    showSlide(current -1;)
+}
+
+document.querySelector(".prev").onclick = () => {
+    showSlide(current - +;)
+}
