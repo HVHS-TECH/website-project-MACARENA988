@@ -54,4 +54,6 @@ font-size: medium;
 .slider{
  position: relative;
  width:400px;
+ height:250px;
+ overflow:hidden;
 }
