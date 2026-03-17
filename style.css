@@ -7,7 +7,6 @@ color:blue;
 .grid-container {
   background-color: blue;
   display: grid;
-  color:rgb(65, 230, 65);
   grid-template-columns:auto auto auto auto;
 }
 
