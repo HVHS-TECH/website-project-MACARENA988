@@ -24,7 +24,7 @@ padding:15px;
 
 .leftside2{
 grid-column-start:1;
-grid-column-end:2;
+grid-column-end:1;
 padding:15px;
 }
 
