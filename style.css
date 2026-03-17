@@ -69,4 +69,18 @@ font-size: medium;
 display:block;
 }
 
-buttone
+button.prev, button.next {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+background: rgba(0, 0, 0, 0.5);
+color: white;
+border:none;
+padding:10px;
+cursor: pointer;
+}
+
+.prev { left: 10px; }
+.next { right: 10px; }
+
+
