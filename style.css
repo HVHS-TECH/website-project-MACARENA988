@@ -9,7 +9,7 @@ color:blue;
 }
 
 .grid-container {
-  background-color: blue;
+  background-color: blu;
   display: grid;
   grid-template-columns:auto auto auto auto;
 }
