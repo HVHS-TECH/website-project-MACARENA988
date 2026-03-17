@@ -10,16 +10,21 @@ color:blue;
   grid-template-columns:auto auto auto auto;
 }
 
+.rightside{
+grid-column-start:3;
+grid-column-end:4;
+padding:15px;
+}
+
 .grid-container2 {
   display: grid;
   grid-template-columns:auto auto;
 
 }
 
-
-.rightside{
-grid-column-start:3;
-grid-column-end:4;
+.leftside2{
+grid-column-start:1;
+grid-column-end:2;
 padding:15px;
 }
 
