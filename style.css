@@ -11,16 +11,19 @@ color:blue;
 .grid-container {
   display: grid;
   grid-template-columns:auto auto auto auto;
+  padding:15px;
 }
 
 .rightside{
 grid-column-start:3;
 grid-column-end:4;
+padding:15px;
 }
 
 .grid-container2 {
   display: grid;
   grid-template-columns:auto auto;
+  padding:15px;
 }
 
 .leftside2{
