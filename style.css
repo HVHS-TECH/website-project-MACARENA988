@@ -8,8 +8,9 @@ background-color:blue;
 }
 
 header{
-background-color:white;
-padding:20px;
+background-color:black;
+padding:30px;
+border: 20px;
 }
 
 .grid-container {
