@@ -108,8 +108,9 @@ color:white;
 /* Caption text */
 .text {
   color: #f2f2f2;
-  font-size: 30px;
+  font-size: 60px;
   font-family: Arial, Helvetica, sans-serif;
+  color:grey;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
