@@ -25,9 +25,6 @@ grid-column-start:3;
 grid-column-end:4;
 padding:15px;
 }
-.grid-page{
-margin:10px;
-}
 
 .grid-container2 {
   display: grid;
@@ -36,6 +33,18 @@ margin:10px;
 }
 
 .leftside2{
+grid-column-start:0;
+grid-column-end:1;
+padding:15px;
+}
+
+.grid-container3{
+display: grid;
+grid-template-columns:auto auto;
+padding:15px;
+}
+
+.leftside3{
 grid-column-start:0;
 grid-column-end:1;
 padding:15px;
