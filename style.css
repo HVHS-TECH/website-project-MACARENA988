@@ -76,7 +76,9 @@ color:white;
 }
 
 footer{
-background-color: ;
+background-color: grey;
+padding:20px;
+bottom:0;
 }
 
 /*Image slideshow from w3schools*/
