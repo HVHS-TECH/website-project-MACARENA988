@@ -51,8 +51,9 @@ padding:15px;
 }
 
 .grid-page{
-
+margin: 10px;
 }
+
 a{
 color: rgb(197, 224, 60);
 font-family: Arial, Helvetica, sans-serif;
@@ -80,7 +81,7 @@ color:white;
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1500px;
+  max-width: 1100px;
   position: relative;
   margin: auto;
 }
