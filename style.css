@@ -90,11 +90,11 @@ color:white;
 
 footer{
 background-color: grey;
-padding:0px;
+padding:20px;
 }
 
-.right{
-text-align:end;
+.center{
+text-align:center;
 }
 
 /*Image slideshow from w3schools*/
