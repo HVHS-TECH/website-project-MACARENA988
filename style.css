@@ -34,7 +34,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .login-form{
-  background-color: #717171;
+  background-color:#717171;
 display: grid;
   grid-template-columns:auto auto auto;
   padding:15px;
