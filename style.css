@@ -33,6 +33,28 @@ font-size: 12px;
 font-family: Arial, Helvetica, sans-serif;
 }
 
+.login-form{
+display: grid;
+  grid-template-columns:auto auto auto;
+  padding:15px;
+}
+.first{
+grid-column-start:1;
+grid-column-end:2;
+padding:15px;
+}
+
+.second{
+grid-column-start:2;
+grid-column-end:3;
+padding:15px;
+}
+
+.thrid{
+grid-column-start:3;
+grid-column-end:4;
+padding:15px;
+}
 
 .grid-container {
   display: grid;
