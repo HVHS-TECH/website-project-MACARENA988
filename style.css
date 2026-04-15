@@ -8,6 +8,11 @@ background-color:black;
 margin:0px;
 }
 
+body.login{
+background-color:black;
+margin:0px;
+}
+
 nav{
 background-color:grey;
 padding:10px;
