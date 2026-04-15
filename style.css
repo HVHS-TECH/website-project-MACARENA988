@@ -10,6 +10,9 @@ margin:0px;
 
 body.login{
 background-image: url("ateam1.jpg");
+background-size: cover;      /* makes it fill the screen */
+  background-position: center; /* keeps it centered */
+  background-repeat: no-repeat;
 margin:0px;
 }
 
