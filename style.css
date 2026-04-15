@@ -94,6 +94,10 @@ padding:30px;
 bottom:0;
 }
 
+.center{
+text-align: center;
+}
+
 /*Image slideshow from w3schools*/
 
 * {box-sizing:border-box}
