@@ -109,8 +109,8 @@ padding:15px;
 }
 
 .grid-page{
-margin: 10px;
-padding-bottom: 20px;
+margin: 30px;
+padding-bottom: 50%;
 }
 
 a{
@@ -142,7 +142,7 @@ padding:50px;
 .footer-container{
 display:flex;
 flex-direction: column;
-gap: 10px;
+gap: 33%;
 }
 
 .left-section{
