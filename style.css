@@ -52,7 +52,7 @@ z-index:-1;
 }
 
 .bg67{
-  background: black url(ateam7.jpg) no-reapeat fixed;
+  background: black url('ateam7.jpg') no-reapeat fixed;
   background-size: cover;
   background-position: top center;
   height: calc(100vh - 48px);
