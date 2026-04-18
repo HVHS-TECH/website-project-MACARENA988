@@ -58,7 +58,11 @@ z-index:-1;
   height: calc(100vh - 48px);
   display: flex;
   flex-direction: column;
+}
 
+.bg67 h1, p {
+  margin:30px;
+  align-items: bottom;
 }
 
 .login-form{
@@ -119,11 +123,6 @@ padding:15px;
 grid-column-start:0;
 grid-column-end:1;
 padding:15px;
-}
-
-.grid-page{
-margin: 30px;
-padding-bottom: 10%;
 }
 
 a{
