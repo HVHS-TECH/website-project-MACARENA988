@@ -231,3 +231,9 @@ text-align:center;
 }
 
 /*Image slideshow from w3schools*/
+
+
+footer img {
+  width: 70px;
+  height: 50px;
+}
