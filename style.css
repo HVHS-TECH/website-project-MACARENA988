@@ -3,6 +3,11 @@ font-family: Arial, Helvetica, sans-serif;
 color: rgb(197, 224, 60);
 }
 
+span{
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(197, 224, 60);
+}
+
 body.normal{
 background-color:black;
 margin:0px;
