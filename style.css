@@ -21,7 +21,8 @@ background-size: cover;      /* makes it fill the screen */
 margin:0px;
 }
 .gallery-img{
-  border-radius: 90px;
+  border-radius: 30px;
+  width: 100%;
 }
 nav{
 background-color:grey;
