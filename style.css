@@ -57,7 +57,7 @@ input {
   z-index: -1;
 }
 
-.bg67 {
+.bgimg {
   background: black url('ateam7.jpg') no-repeat fixed;
   background-size: cover;
   background-position: top center;
