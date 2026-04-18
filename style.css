@@ -20,7 +20,9 @@ background-size: cover;      /* makes it fill the screen */
   background-repeat: no-repeat;
 margin:0px;
 }
-
+.gallery-img{
+  border-radius: 90px;
+}
 nav{
 background-color:grey;
 padding:10px;
