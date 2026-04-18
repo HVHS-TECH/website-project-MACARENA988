@@ -62,7 +62,7 @@ z-index:-1;
 
 .bg67 h1, p {
   margin:30px;
-  align-items: bottom;
+  margin-top: auto;
 }
 
 .login-form{
