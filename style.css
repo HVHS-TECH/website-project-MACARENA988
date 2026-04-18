@@ -138,8 +138,23 @@ footer{
 background-color: grey;
 padding:50px;
 }
-.footer-container{
 
+.footer-container{
+display:flex;
+flex-direction: column;
+gap: 40px;
+}
+
+.left-section{
+display:flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 10px;
+}
+
+.social-icons{
+  display: fixed;
+  gap: 15px;
 }
 .center{
 text-align;
