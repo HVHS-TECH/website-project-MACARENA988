@@ -94,7 +94,7 @@ padding:15px;
 }
 
 .leftside2{
-grid-column-start:0;
+grid-column-start:1;
 grid-column-end:1;
 padding:15px;
 }
