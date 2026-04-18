@@ -1,57 +1,63 @@
-h1, h2, span{
-font-family: Arial, Helvetica, sans-serif;
-color: rgb(197, 224, 60);
+h1,
+h2,
+span {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(197, 224, 60);
 }
 
-span{
-font-size: 1.5em;
-font-weight: bold;
+span {
+  font-size: 1.5em;
+  font-weight: bold;
 }
 
-body.normal{
-background-color:black;
-margin:0px;
+body.normal {
+  background-color: black;
+  margin: 0px;
 }
 
-body.login{
-background-image: url("ateam1.jpg");
-background-size: cover;      /* makes it fill the screen */
-  background-position: center; /* keeps it centered */
+body.login {
+  background-image: url("ateam1.jpg");
+  background-size: cover;
+  /* makes it fill the screen */
+  background-position: center;
+  /* keeps it centered */
   background-repeat: no-repeat;
-margin:0px;
+  margin: 0px;
 }
-.gallery-img{
+
+.gallery-img {
   border-radius: 30px;
   width: 100%;
 }
-nav{
-background-color:grey;
-padding:10px;
-border: 20px;
+
+nav {
+  background-color: grey;
+  padding: 10px;
+  border: 20px;
 }
 
-label{
-color:rgb(255, 255, 255);
-font-size: 20px;
-font-family: Arial, Helvetica, sans-serif;
+label {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-input{
-font-size: 12px;
-font-family: Arial, Helvetica, sans-serif;
+input {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-#video{
-position: fixed;
-min-width: 100%;
-min-height: 100%;
-right:0;
-bottom:0;
-object-fit: cover;
-z-index:-1;
+#video {
+  position: fixed;
+  min-width: 100%;
+  min-height: 100%;
+  right: 0;
+  bottom: 0;
+  object-fit: cover;
+  z-index: -1;
 }
 
-.bg67{
+.bg67 {
   background: black url('ateam7.jpg') no-repeat fixed;
   background-size: cover;
   background-position: top center;
@@ -60,129 +66,134 @@ z-index:-1;
   flex-direction: column;
 }
 
-.bg67 h1, p {
-  margin:30px;
+.bg67 h1,
+p {
+  margin: 30px;
   margin-top: auto;
 }
 
-.login-form{
-   background-color: rgba(0, 0, 0, 0.3);
-display: grid;
-  grid-template-columns:auto auto auto;
-  padding:15px;
-}
-.first{
-grid-column-start:1;
-grid-column-end:2;
-padding:15px;
+.login-form {
+  background-color: rgba(0, 0, 0, 0.3);
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 15px;
 }
 
-.second{
-grid-column-start:2;
-grid-column-end:3;
-padding:15px;
+.first {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  padding: 15px;
 }
 
-.thrid{
-grid-column-start:3;
-grid-column-end:4;
-padding:15px;
+.second {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  padding: 15px;
+}
+
+.thrid {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  padding: 15px;
 }
 
 .grid-container {
   display: grid;
-  grid-template-columns:auto auto auto auto;
-  padding:15px;
+  grid-template-columns: auto auto auto auto;
+  padding: 15px;
 }
 
-.rightside{
-grid-column-start:3;
-grid-column-end:4;
-padding:15px;
+.rightside {
+  grid-column-start: 3;
+  grid-column-end: 4;
+  padding: 15px;
 }
 
 .grid-container2 {
   display: grid;
-  grid-template-columns:auto auto;
-  padding:15px;
+  grid-template-columns: auto auto;
+  padding: 15px;
 }
 
-.leftside2{
-grid-column-start:1;
-grid-column-end:1;
-padding:15px;
+.leftside2 {
+  grid-column-start: 1;
+  grid-column-end: 1;
+  padding: 15px;
 }
 
-.grid-container3{
-display: grid;
-grid-template-columns:auto auto;
-padding:15px;
+.grid-container3 {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 15px;
 }
 
-.leftside3{
-grid-column-start:0;
-grid-column-end:1;
-padding:15px;
+.leftside3 {
+  grid-column-start: 0;
+  grid-column-end: 1;
+  padding: 15px;
 }
 
-a{
-color: rgb(197, 224, 60);
-font-family: Arial, Helvetica, sans-serif;
-font-weight:bold ;
-text-decoration:none;
-padding-left:15px;
-padding-right:15px;
+a {
+  color: rgb(197, 224, 60);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
-p{
-font-family: Arial, Helvetica, sans-serif;
-font-size: medium;
-color: white;
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: white;
 }
 
-li{
-font-family: Arial, Helvetica, sans-serif;
-font-size: medium;
-color:white;
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: white;
 }
 
-footer{
-background-color: grey;
-padding:50px;
+footer {
+  background-color: grey;
+  padding: 50px;
 }
 
-.footer-container{
-display:flex;
-flex-direction: column;
-gap: 25%;
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25%;
 }
 
-.left-section{
-display:flex;
-flex-direction: column;
-align-items: flex-start;
-gap: 10px;
+.left-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
 }
 
-.social-icons{
+.social-icons {
   display: fixed;
   gap: 15px;
 }
 
-.bottom-section{
-display:flex;
-align-items:center;
-justify-content: center;
-gap: 5px;
+.bottom-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
 
 }
-.center{
-text-align;
+
+.center {
+  text-align;
 }
 
 /*Image slideshow from w3schools*/
 
-* {box-sizing:border-box}
+* {
+  box-sizing: border-box
+}
 
 /* Slideshow container */
 .slideshow-container {
@@ -197,7 +208,8 @@ text-align;
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.prev,
+.next {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -219,15 +231,16 @@ text-align;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 /* Caption text */
 .text {
   font-size: 60px;
   font-family: Arial, Helvetica, sans-serif;
-  color:blue;
+  color: blue;
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -239,7 +252,7 @@ text-align;
 .numbertext {
   color: blue;
   font-size: 30px;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   padding: 8px 12px;
   position: absolute;
   top: 0;
@@ -257,7 +270,8 @@ text-align;
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+.active,
+.dot:hover {
   background-color: #717171;
 }
 
@@ -268,8 +282,13 @@ text-align;
 }
 
 @keyframes fade {
-  from {opacity: .6}
-  to {opacity: 1}
+  from {
+    opacity: .6
+  }
+
+  to {
+    opacity: 1
+  }
 }
 
 /*Image slideshow from w3schools*/
