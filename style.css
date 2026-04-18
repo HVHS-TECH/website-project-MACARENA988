@@ -66,10 +66,13 @@ input {
   flex-direction: column;
 }
 
-.bg67 h1,
-p {
-  margin: 30px;
-  margin-top: auto;
+.bgtext{
+  flex: 1;
+  background: #717171;
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
 }
 
 .login-form {
