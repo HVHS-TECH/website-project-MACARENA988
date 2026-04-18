@@ -156,6 +156,14 @@ gap: 10px;
   display: fixed;
   gap: 15px;
 }
+
+.bottom-section{
+display:flex;
+align-items:center;
+justify-content: center;
+gap: 10px;
+
+}
 .center{
 text-align;
 }
